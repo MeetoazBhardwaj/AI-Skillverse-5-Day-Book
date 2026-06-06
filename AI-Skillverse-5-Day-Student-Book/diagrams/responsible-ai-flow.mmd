@@ -1,0 +1,8 @@
+flowchart TD
+    A[Need AI help] --> B{Allowed by teacher?}
+    B -- No --> C[Do not use]
+    B -- Yes --> D{Private data involved?}
+    D -- Yes --> E[Remove private data]
+    D -- No --> F[Ask learning-focused prompt]
+    F --> G[Verify]
+    G --> H[Use honestly]
