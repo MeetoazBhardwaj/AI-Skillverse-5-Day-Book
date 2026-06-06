@@ -110,4 +110,4 @@ AI is not a magic homework machine. AI is a thinking partner. It can help you as
 
 ## Credit
 
-Made for AI Skillverse students by Meetoaz Bhardwaj and the AI Skillverse Team.
+Made for AI Skillverse students by AI Skillverse Team.
