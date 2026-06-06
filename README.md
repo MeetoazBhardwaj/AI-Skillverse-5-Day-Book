@@ -102,6 +102,5 @@ flowchart TD
 
 AI is not a magic homework machine. AI is a thinking partner. It can help you ask better questions, test your understanding, organize ideas, build presentations, and prepare for exams. But your effort, honesty, curiosity, and discipline still matter the most.
 
-## Credit
 
 Made for AI Skillverse students by AI Skillverse Team.
