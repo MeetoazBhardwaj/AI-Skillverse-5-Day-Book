@@ -90,12 +90,6 @@ AI-Skillverse-5-Day-Student-Book/
     └── image2.png
 ```
 
-## How to use Mermaid diagrams on GitHub
-
-GitHub supports Mermaid diagrams inside markdown files. The `.mmd` files in the `diagrams/` folder can be opened directly, copied into markdown code blocks, or rendered using Mermaid-compatible editors.
-
-Example:
-
 ```mermaid
 flowchart TD
     Question[Student question] --> Prompt[Clear prompt]
